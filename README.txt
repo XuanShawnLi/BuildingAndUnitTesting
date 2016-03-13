@@ -5,3 +5,5 @@ Feature 1: test1 branch
 Add .travis.yml
 
 new commit
+
+new commit 2
